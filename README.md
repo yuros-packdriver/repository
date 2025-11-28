@@ -1,2 +1,1 @@
-# repository
-Yuros firmware package repository  
+# FIRMWARE PACKAGE REPOSITORY 
